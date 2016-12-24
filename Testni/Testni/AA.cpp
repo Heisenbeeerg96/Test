@@ -4,7 +4,7 @@
 
 AA::AA()
 {
-	std::cout << "gaga";
+	std::cout << "gaggaa";
 }
 
 
